@@ -1,4 +1,3 @@
-// I'm a comment!
 // SPDX-License-Identifier: MIT
 
 //pragma solidity 0.8.8;
@@ -6,6 +5,8 @@
 pragma solidity >=0.8.0 <0.9.0;
 
 contract SimpleStorage {
+
+    // Contract address: 0xd9145CCE52D386f254917e481eB44e9943F39138
 
     uint256 favoriteNumber;
 
